@@ -112,8 +112,8 @@ export default function SideBar() {
         </div>
         {openSideBar && (
           <div className="flex gap-1 text-[23px] ">
-            <span className={`font-bold text-sky-500`}>UI</span>
-            <span className="text-slate-600">Shelf</span>
+            <span className={`font-bold text-sky-500`}>NexAI</span>
+            <span className="text-slate-600">UI Shelf</span>
           </div>
         )}
       </div>

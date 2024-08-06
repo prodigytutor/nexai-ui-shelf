@@ -136,8 +136,8 @@ function Navbar() {
 
         {/* App Name */}
         <div className="flex gap-1 text-[22px] ">
-          <span className={`font-bold text-sky-500`}>UI</span>
-          <span className="text-slate-600">Shelf</span>
+          <span className={`font-bold text-sky-500`}>NexAI</span>
+          <span className="text-slate-600">UI Shelf</span>
         </div>
       </div>
     );
